@@ -1,0 +1,155 @@
+*{
+    margin:auto;
+    padding:auto;
+}
+
+a{
+    text-decoration: none;
+}
+ .menu{
+     text-align: right;
+    padding: 30px;
+    }
+
+.menu li{
+    list-style: none;
+    display: inline-block;    
+
+}
+.menu a{
+    padding: 5px;
+    color:black
+
+}
+.link{
+    text-align:right;
+     font-size: large;
+    width: 20%;
+    ;
+    }
+ .container{
+     font-size: large;
+      width: 90%; 
+    
+     } 
+
+
+.half-width{
+    width: 50%;
+   float: left;
+}
+
+img{
+width: 15%;
+float:center;
+box-shadow: black;
+}
+
+.hero-section h1{
+    font-size: 30px;
+    font-variant: normal;
+    
+}
+
+.highlighted-text{
+    color: rgb(233, 6, 6);
+}
+.hero-section p{
+    font-size: 20px;
+    line-height: 25px;
+    margin: 20px 0;
+}
+
+.hero-section .button{
+    background-color:rgb(17, 236, 10);
+    font-size: 13px;
+    font-weight: bold;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+
+
+
+.project{
+    width: 33.33%;
+    float: left;
+    padding: 5px;
+     
+}   
+
+.work-section .project-first{
+    width: 30%;
+    float:left;
+    padding: 1%;
+}
+    
+.work-section .project-second{
+    width: 30%;
+    float:middle;
+    overflow: hidden;
+    padding: 1%;
+}
+.work-section .project-third{
+    width: 30%;
+    float:left;
+    overflow: hidden;
+    padding: 1%;
+}
+    
+.work-section h4{
+    margin: 10px 0;
+}
+  
+
+.work-section .box-shadow{
+    box-shadow: 3px 3px 3px 3px;
+    border-radius: 10px;
+}
+
+.box-shadow:hover{
+    transform: scale(1.03);
+    cursor: pointer;
+}
+
+
+.hero-section .button:hover{
+    transform: scale(1.03);
+    cursor: pointer;
+}
+
+
+
+
+body { background:rgb(88, 85, 85); }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
